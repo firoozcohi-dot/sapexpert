@@ -1,0 +1,4 @@
+baseURL = "https://YOUR-USERNAME.github.io/YOUR-REPO/"
+languageCode = "en-us"
+title = "My Site"
+theme = "meghna-hugo"
