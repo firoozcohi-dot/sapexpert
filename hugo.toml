@@ -1,4 +1,5 @@
-baseURL = "https://github.com/firoozcohi-dot/sapexpert.git"
-languageCode = "en-us"
-title = "My Site"
+baseURL = "https://firoozcohi-dot.github.io/sapexpert/"
+locale = "fa-ir"
+title = "SAP Expert"
 theme = "meghna-hugo"
+
