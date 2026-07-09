@@ -1,4 +1,4 @@
-baseURL = "https://YOUR-USERNAME.github.io/YOUR-REPO/"
+baseURL = "https://github.com/firoozcohi-dot/sapexpert.git"
 languageCode = "en-us"
 title = "My Site"
 theme = "meghna-hugo"
